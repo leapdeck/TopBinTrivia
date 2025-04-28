@@ -1,7 +1,7 @@
 
 # 🌍 TopBinTrivia
 
-Dive into this exciting trivia game that spans dozens of countries worldwide! Choose a country, test your knowledge of epic global soccer events, and learn fascinating facts as you go. Each round earns you a score—so challenge yourself, play multiple rounds, and see how you stack up against the world's best soccer minds. Let the games begin! ⚽🏆
+Dive into this trivia game that spans dozens of countries worldwide! Choose a country, test your knowledge of epic global soccer events, and learn fascinating facts as you go. Each round earns you a score—so challenge yourself, play multiple rounds, and see how you stack up. Let the games begin! ⚽🏆
 
 ## 🚀 Key Features
 
@@ -20,7 +20,7 @@ Expand your understanding of global soccer while having fun. Every question is a
 ## 📱 Download for iOS
 
 Download on the App Store  
-[![App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://www.apple.com/app-store/)
+[![App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)]([https://www.apple.com/app-store/](https://apps.apple.com/us/app/topbin-trivia/id6744351403)
 
 ## 📝 License
 
