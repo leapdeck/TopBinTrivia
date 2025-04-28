@@ -24,7 +24,7 @@ Download on the App Store
 
 ## 📝 License
 
-Soccer Trivia Challenge is under the MIT license. See the accompanying [LICENSE](LICENSE) for more information.
+TopBinTrivia is under the MIT license. See the accompanying [LICENSE](LICENSE) for more information.
 
 ## 🤝 Contributing
 
