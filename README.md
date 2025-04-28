@@ -20,7 +20,7 @@ Expand your understanding of global soccer while having fun. Every question is a
 ## 📱 Download for iOS
 
 Download on the App Store  
-[![App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)]([https://www.apple.com/app-store/](https://apps.apple.com/us/app/topbin-trivia/id6744351403)
+[![App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/topbin-trivia/id6744351403)
 
 ## 📝 License
 
