@@ -33,6 +33,3 @@ We welcome 👩🏾‍💻👨🏾‍💻 additions! If you’d like to help imp
 ## 📬 Contact
 
 For feedback, questions, or collaboration opportunities, feel free to message for assistance.
-```
-
-Let me know if you need tweaks to match any other styles!
