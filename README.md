@@ -1,7 +1,7 @@
 
 # ⚽🌍 TopBinTrivia
 
-Dive into this trivia game that spans dozens of countries worldwide! Choose a country, test your knowledge of epic global soccer events, and learn fascinating facts as you go. Each round earns you a score—so challenge yourself, play multiple rounds, and see how you stack up. Let the games begin! ⚽🏆
+Dive into this soccer trivia game that spans dozens of countries worldwide! Choose a country, test your knowledge of epic global soccer events, and learn fascinating facts as you go. Each round earns you a score—so challenge yourself, play multiple rounds, and see how you stack up. Let the games begin! ⚽🏆
 
 <p align="center">
   <img alt="TopBinTrivia" title="TopBinTrivia" src="screenshots/TopBinScroll1.gif" width=300>
